@@ -23,7 +23,7 @@ class SelectedFriendsState extends State<SelectedFriends> {
     // INSERT PEOPLE HERE!
     new Friend("Naomi", "Jennings", "Ace", "images/person1.jpg"),
     new Friend("Ernest", "Bishop", "JD", "images/person2.jpgg"),
-    new Friend("Ernest", "Williams", "Doodlebug", "images/person3.jpg"),
+    new Friend("James", "Williams", "Doodlebug", "images/person3.jpg"),
 
   ];
   final _saved = <Friend>[];

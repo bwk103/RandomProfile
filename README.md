@@ -7,6 +7,10 @@ During a gathering with friends, someone commented that it might be useful to ha
 ## Development
 The first problem that I faced in designing the application was to determine which platform to develop the application for as, any group of people is likely to contain some iPhone users and some Android users.  Having recently read about Google's Flutter framework, I decided that this would be the ideal opportunity to produce an application which works on both platforms.
 
+![Home](https://user-images.githubusercontent.com/8667021/38805133-ab93c266-416c-11e8-9f1c-d4ad5f0ff63c.png)
+![Confirm](https://user-images.githubusercontent.com/8667021/38805139-afbc8b2a-416c-11e8-95ac-0481ebcfcf22.png)
+![Result](https://user-images.githubusercontent.com/8667021/38805142-b1157c0c-416c-11e8-9a73-cb756f09f6cf.png)
+
 ### User Stories
  ```
  As a user,
@@ -62,12 +66,12 @@ If the user is happy, they then press the forward button, and are taken to the R
 - Once the simulator is ready, run the command `flutter run` from within the repo directory. 
 
 
-###Running the Android Application:
+
+
+### Running the Android Application:
 
 - To run the Android application, first ensure that [Android Studio](https://developer.android.com/studio/index.html) is installed on your machine.
 
-- Follow the steps (here)[https://flutter.io/get-started/install/]
+- Follow the steps listed [here](https://flutter.io/get-started/install/) depending on whether or not you wish to run the application on your phone, or using a simulator.
 
-- Run `flutter run` from within the repo directory.
-
-#
+- Run the command `flutter run` from within the repo directory.

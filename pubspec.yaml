@@ -1,0 +1,21 @@
+name: super_best_friends_app
+description: A Dice for Super Best Friends
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/person1.jpg
+    - images/person2.jpg
+    - images/person3.jpg
